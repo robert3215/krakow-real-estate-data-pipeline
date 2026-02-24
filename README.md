@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 Dashboard Preview:
 
-![Krakow Real Estate Dashboard](reports/reports/Dashboard_screenshot.png)
+![Krakow Real Estate Dashboard](reports/Dashboard_screenshot.png)
 
 Full interactive Power BI model available in:
 - `reports/Apartments_krakow_overview.pbix`
